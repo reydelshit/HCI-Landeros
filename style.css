@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
 /* main color  */
 /* #FE5A3E */
 
 /* color  */
 /* #303030 */
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
 a{
     text-decoration: none !important;
     color: #303030;
@@ -11,12 +19,6 @@ a{
 
 a:hover{
     color: #FE5A3E;
-}
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
 
 button{
