@@ -22,3 +22,7 @@ a:hover{
 button{
     cursor: pointer;
 }
+
+button:hover{
+    background-color: #e64b30 !important;
+}
